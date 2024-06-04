@@ -12,7 +12,7 @@ Python 3.x
 ## Instrucciones de Uso
 Clona el repositorio:
 
-ir a https://github.com/tu-usuario/Software_empaquetado.py
+ir a https://github.com/oscartg25/Software_empaquetado.py
 usando python desde cualquier viisual de codigo ejecute en archivo
 
 Software_empaquetado.py
